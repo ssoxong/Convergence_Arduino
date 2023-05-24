@@ -6,10 +6,13 @@
 
 
 <img src = "https://github.com/ssoxong/Convergence_Arduino/assets/112956015/9938ca2a-6a2d-48d2-844f-e9a0afe529d2" width="50%" height="50%">  
+
+
 https://www.youtube.com/watch?v=uvN3YUE7riE
 
 ### 준비
 <img src = "https://github.com/ssoxong/Convergence_Arduino/assets/112956015/6c6728bb-9ad8-48ad-a017-592681136a3e" width="50%" height="50%">  
+
 
 100~220Ω 저항, LED, IR센서&리모컨, 가변저항, 서보모터, 초음파 센서, 수동 부저, LCD 
 
