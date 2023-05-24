@@ -3,17 +3,16 @@
 
 ### IoT 모방한 무선 통신 구현
 리모컨 하나로 전등을 제어하고, 알람이 울리길 원하는 시간을 받고 알람이 울린다면 사용자가 일어나 가까이 가야만 알람이 꺼지는 방식으로 방식입니다. LCD, 스위치, 알람 등 다양한 모듈을 하나로 통제하여 간이 스마트홈을 구현하였습니다.
-
-![IMG_8334](https://github.com/ssoxong/Convergence_Arduino/assets/112956015/9938ca2a-6a2d-48d2-844f-e9a0afe529d2){: width="50%" height="50%"}
+<img src = "https://github.com/ssoxong/Convergence_Arduino/assets/112956015/9938ca2a-6a2d-48d2-844f-e9a0afe529d2" width="50%" height="50%">
 https://www.youtube.com/watch?v=uvN3YUE7riE
 
 ### 준비
-![image](https://github.com/ssoxong/Convergence_Arduino/assets/112956015/6c6728bb-9ad8-48ad-a017-592681136a3e){: width="50%" height="50%"}
+<img src = "https://github.com/ssoxong/Convergence_Arduino/assets/112956015/6c6728bb-9ad8-48ad-a017-592681136a3e" width="50%" height="50%">
 
 100~220Ω 저항, LED, IR센서&리모컨, 가변저항, 서보모터, 초음파 센서, 수동 부저, LCD 
 
 ### 회로도
-![image](https://github.com/ssoxong/Convergence_Arduino/assets/112956015/927aec3b-14fc-4a1b-b7a5-bec2a24bd2f3){: width="50%" height="50%"}
+<img src = "https://github.com/ssoxong/Convergence_Arduino/assets/112956015/927aec3b-14fc-4a1b-b7a5-bec2a24bd2f3" width="50%" height="50%">
 
 
 ### 모듈별 기능 명세
